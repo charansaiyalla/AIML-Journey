@@ -4,7 +4,7 @@ My complete journey through Artificial Intelligence and Machine Learning.
 
 ## Learning Roadmap
 
-- [ ] NumPy
+- [x] NumPy
 - [ ] Pandas
 - [ ] Data Cleaning
 - [ ] Exploratory Data Analysis
